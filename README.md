@@ -1,4 +1,3 @@
-Hola, soy ricardo
- me dedico al desarrollo de tecnoligias, software y hardware, y en mis tiempos libres diseño tecnologias y software para equipos de dj denon
+Hola, Somos enerful.cl
 
-aca encontraras algunos de mis proyectos y archivos
+Nos dedicamos al desarrollo de tecnologias en multiples industrias
